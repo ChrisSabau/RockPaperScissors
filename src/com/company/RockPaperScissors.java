@@ -3,7 +3,7 @@ package com.company;
 public class RockPaperScissors {
 
     public static void main(String[] args) {
-	// write your code here
+
     }
 
     public static String letsPlayRockPaperScissors(String p1, String p2) {
